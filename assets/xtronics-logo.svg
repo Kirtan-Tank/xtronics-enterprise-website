@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 96" role="img" aria-label="Xtronics Enterprise">
+
+  <!-- horizontal rules -->
+  <rect x="0"  y="19" width="480" height="2" fill="rgba(255,255,255,0.18)" rx="1"/>
+  <rect x="0"  y="73" width="480" height="2" fill="rgba(255,255,255,0.18)" rx="1"/>
+
+  <!-- decorative lightning bolts (ghost) -->
+  <polygon points="318,2  282,52 304,52 294,94 334,44 312,44" fill="rgba(255,255,255,0.06)"/>
+  <polygon points="348,-2 310,52 334,52 323,96 366,42 342,42" fill="rgba(255,255,255,0.035)"/>
+
+  <!-- XTRONICS — red -->
+  <text
+    x="8" y="66"
+    font-family="'Arial Black','Arial Bold',Arial,Helvetica,sans-serif"
+    font-weight="900"
+    font-size="54"
+    letter-spacing="-1"
+    fill="#D32F2F">XTRONICS</text>
+
+  <!-- We are quick !! — white -->
+  <text
+    x="472" y="90"
+    text-anchor="end"
+    font-family="Arial,Helvetica,sans-serif"
+    font-weight="400"
+    font-size="13"
+    font-style="italic"
+    letter-spacing="0.2"
+    fill="rgba(255,255,255,0.65)">We are quick !!</text>
+
+</svg>
